@@ -1,4 +1,6 @@
-## Hi there 👋
+## Jack Farmer - 🏢 Business Systems Dev 💻
+
+Hello all! I'm Jack, a developer in the 🏙️ metro-atlanta area 🍑.
 
 <!--
 **jackfaarmer/jackfaarmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
