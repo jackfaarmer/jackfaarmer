@@ -1,6 +1,10 @@
 ## Jack Farmer - 🏢 Business Systems Dev 💻
 
-Hello all! I'm Jack, a developer in the 🏙️ metro-atlanta area 🍑.
+### Hello all! 👋
+
+I'm Jack, a developer in the 🏙️ metro-atlanta area 🍑.
+
+Feel free to find me on 🦋 Bluesky @jackfarmer.bsky.social
 
 <!--
 **jackfaarmer/jackfaarmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
