@@ -4,7 +4,7 @@
 
 I'm Jack, a developer in the 🏙️ metro-atlanta area 🍑.
 
-Find me on 🦋 Bluesky! [@jackfarmer.bsky.social](https://bsky.app/profile/jackfarmer.bsky.social)
+Find me on 🦋 Bluesky! <a target="_blank" href="https://bsky.app/profile/jackfarmer.bsky.social">@jackfarmer.bsky.social</a>
 
 <br>
 
