@@ -6,6 +6,10 @@ I'm Jack, a developer in the 🏙️ metro-atlanta area 🍑.
 
 Feel free to find me on 🦋 Bluesky @jackfarmer.bsky.social
 
+<br>
+
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" > <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" > <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"> <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white">
+
 <!--
 **jackfaarmer/jackfaarmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
